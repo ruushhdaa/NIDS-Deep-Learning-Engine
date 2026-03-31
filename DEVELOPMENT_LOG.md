@@ -1,1 +1,2 @@
 - [2026-03-31T19:28:40] docs(preprocessing): document CICIDS 2017 flow normalization and feature scaling
+- [2026-03-31T16:56:56] refactor(model): optimize deep neural network flow classification architecture
