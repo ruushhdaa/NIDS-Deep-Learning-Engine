@@ -7,3 +7,4 @@
 - [2026-04-01T17:20:15] docs(preprocessing): document CICIDS 2017 flow normalization and feature scaling
 - [2026-04-01T14:24:36] test(evaluation): add confusion matrix and ROC-AUC calculation routines
 - [2026-04-02T13:08:37] test(evaluation): add confusion matrix and ROC-AUC calculation routines
+- [2026-04-02T13:42:36] feat(engine): implement batch inference pipeline for packet flow tensors
