@@ -16,3 +16,4 @@
 - [2026-04-04T15:40:10] test(evaluation): add confusion matrix and ROC-AUC calculation routines
 - [2026-04-04T18:58:30] test(evaluation): add confusion matrix and ROC-AUC calculation routines
 - [2026-04-04T10:28:51] feat(engine): implement batch inference pipeline for packet flow tensors
+- [2026-04-05T19:30:45] feat(engine): implement batch inference pipeline for packet flow tensors
