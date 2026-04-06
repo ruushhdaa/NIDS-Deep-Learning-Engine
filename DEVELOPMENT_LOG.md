@@ -22,3 +22,4 @@
 - [2026-04-05T21:24:12] docs(preprocessing): document CICIDS 2017 flow normalization and feature scaling
 - [2026-04-05T12:32:21] docs(preprocessing): document CICIDS 2017 flow normalization and feature scaling
 - [2026-04-06T19:57:00] docs(preprocessing): document CICIDS 2017 flow normalization and feature scaling
+- [2026-04-06T21:37:04] feat(engine): implement batch inference pipeline for packet flow tensors
