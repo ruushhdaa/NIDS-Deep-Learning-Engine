@@ -34,3 +34,4 @@
 - [2026-04-09T20:16:24] refactor(model): optimize deep neural network flow classification architecture
 - [2026-04-09T16:47:21] refactor(model): optimize deep neural network flow classification architecture
 - [2026-04-11T13:35:58] feat(engine): implement batch inference pipeline for packet flow tensors
+- [2026-04-11T20:48:10] docs(preprocessing): document CICIDS 2017 flow normalization and feature scaling
