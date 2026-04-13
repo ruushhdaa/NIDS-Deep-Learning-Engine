@@ -37,3 +37,4 @@
 - [2026-04-11T20:48:10] docs(preprocessing): document CICIDS 2017 flow normalization and feature scaling
 - [2026-04-11T18:18:32] refactor(model): optimize deep neural network flow classification architecture
 - [2026-04-13T22:31:47] test(evaluation): add confusion matrix and ROC-AUC calculation routines
+- [2026-04-13T16:04:03] refactor(model): optimize deep neural network flow classification architecture
